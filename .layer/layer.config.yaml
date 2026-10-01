@@ -1,0 +1,12 @@
+version: '1'
+domains:
+  architecture:
+    description: Architectural decisions and patterns for the Layer tool itself
+  conventions:
+    description: Coding conventions for the Layer codebase
+  testing:
+    description: Testing patterns and conventions
+classification_defaults:
+  shelf_life:
+    tactical: 90
+    observational: 30

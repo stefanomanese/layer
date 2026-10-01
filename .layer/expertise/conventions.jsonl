@@ -1,0 +1,2 @@
+{"id":"lr-bba429","type":"convention","domain":"conventions","classification":"foundational","recorded_at":"2026-05-28T13:15:06.775Z","content":"All relative imports use .ts extensions. Bun handles ESM natively — no .js aliases needed."}
+{"id":"lr-ff3080","type":"convention","domain":"conventions","classification":"foundational","recorded_at":"2026-05-28T13:15:06.881Z","content":"No any, no non-null assertions (noNonNullAssertion in biome). Use discriminated unions and exhaustive switches."}

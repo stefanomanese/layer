@@ -1,0 +1,1 @@
+{"id":"lr-994b97","type":"convention","domain":"testing","classification":"foundational","recorded_at":"2026-05-28T13:15:06.989Z","content":"No mocks. Tests use real filesystems — mkdtemp, write real JSONL, assert against real file contents, clean up in afterEach."}
